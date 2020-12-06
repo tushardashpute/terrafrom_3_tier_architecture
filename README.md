@@ -1,0 +1,2 @@
+# terrafrom_3_tier_architecture
+This is for sample terrafrom_3_tier_architecture
